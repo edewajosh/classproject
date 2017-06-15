@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "721960392142",
+    "firebase_url": "https://tubonge-e7a5d.firebaseio.com",
+    "project_id": "tubonge-e7a5d",
+    "storage_bucket": "tubonge-e7a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721960392142:android:28b963d0bd71938a",
+        "android_client_info": {
+          "package_name": "com.joshua.chatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721960392142-i1p69p59itervoi3tb8o7km1frmqsans.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0qukn8PwMw-8UtBkeIZsynSkmoU_YB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
